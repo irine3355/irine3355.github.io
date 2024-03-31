@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <link rel="stylesheet" type="text/css" href="css/style.css" media="screen and (min-width: 600px) and (max-width: 800px)">
-    </head>
-    <body>
-
-   
-<h1>아이린3355</h1>
-  
-
-    </body>
-</html>
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Gowun+Dodum&family=Hahmlet:wght@100..900&family=Single+Day&display=swap')
 
 
  # [아이린3355]SW프로젝트
