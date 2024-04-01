@@ -1,6 +1,6 @@
  # 아이린3355 SW프로젝트 :+1:
- [아이린3355](https://irine3355.github.io/?usp=drive_link)
-- 1 : 
+ ### [아이린3355](https://irine3355.github.io?usp=drive_link)
+ 
 
 # 목차  
 ## 0. 수업프로젝트 
